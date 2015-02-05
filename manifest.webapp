@@ -1,0 +1,28 @@
+{
+    "version": "1.2",
+    "name": "TicInfo",
+    "description": "darkuskyo.net NEWS, news from the site.",
+    "launch_path": "/index.html",
+    "orientation": ["portrait"],
+    "icons": {
+        "128": "/logo.png"
+    },
+    "developer": {
+        "name": "Gustavo Adolfo Flores González",
+        "url": "http://darkuskyo.net"
+    },
+    "installs_allowed_from": ["*"],
+    "locales": {
+        "en": {
+            "description": "darkuskyo.net NEWS, news from the site.",
+            "developer": {
+				"name": "Gustavo Adolfo Flores González",
+				"url": "http://darkuskyo.net"
+            }
+        }
+    },
+    "default_locale": "es",
+    "permissions": {     
+    },
+    "fullscreen": "true"
+}
