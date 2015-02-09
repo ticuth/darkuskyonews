@@ -1,6 +1,6 @@
 {
     "version": "1.2",
-    "name": "TicInfo",
+    "name": "darkuskyo.net News",
     "description": "darkuskyo.net NEWS, news from the site.",
     "launch_path": "/index.html",
     "orientation": ["portrait"],
